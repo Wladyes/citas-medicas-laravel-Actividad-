@@ -6,7 +6,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
 # Sistema de Citas Médicas - Laravel 12
 
 Proyecto desarrollado para la actividad grupal de migraciones, modelos, factories y seeders en Laravel.
@@ -100,6 +99,8 @@ Proyecto realizado por el grupo de trabajo para la materia de [Nombre de la mate
 🐛 ¿Problemas?
 Si tienes dudas o problemas, abre un issue o contacta a los autores del repositorio.
 text
+
+
 
 
 
